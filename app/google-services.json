@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "863782648763",
+    "firebase_url": "https://frotasenergy.firebaseio.com",
+    "project_id": "frotasenergy",
+    "storage_bucket": "frotasenergy.appspot.com"
+  },
+  "client": [
+       {
+      "client_info": {
+        "mobilesdk_app_id": "1:863782648763:android:f9575f95d0eba90a",
+        "android_client_info": {
+          "package_name": "bebum.com.br.bebum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863782648763-ns2rc98bbt5ldkntcp7umms5jv7vn9de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.energy.orcamentos",
+            "certificate_hash": "5af57128b067abf9ce85d03bdd8591851a2ed8c0"
+          }
+        },
+        {
+          "client_id": "863782648763-s56b5dfis406nt1m5iqlqh6kr0l5psuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzqtWY9v1DlidEHo5SO_hBYyvFSHBTI9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863782648763-s56b5dfis406nt1m5iqlqh6kr0l5psuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

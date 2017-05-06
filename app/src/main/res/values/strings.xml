@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Bebum</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Senha </string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Usuario invalido</string>
+    <string name="error_invalid_password">Tamanho da senha invalido</string>
+    <string name="error_incorrect_password">Senha inválida</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="permission_rationale">"Email de verificação enviado para seu email"  </string>
+    <string name="title_home">Materia Prima</string>
+    <string name="title_dashboard">Produto Acabado</string>
+    <string name="title_notifications">Embalagens</string>
+    <string name="title_Atividades">Atividades</string>
+    <string name="title_atualizar">Refresh</string>
+    <string name="title_graficos">Graficos</string>
+    <string name="servererro">Servidor indisponivel, contate a TI</string>
+    <string name="add_vector_path" translatable="false">M50 20,L50 80,M20 50,L80 50</string>
 </resources>
