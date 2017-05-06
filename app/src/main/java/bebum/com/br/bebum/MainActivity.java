@@ -10,6 +10,9 @@ public class MainActivity extends AppCompatActivity {
     private int teste2;
     private TextView cassinho;
     private int test5;
+
+    private int testeWagner;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
