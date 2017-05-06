@@ -8,13 +8,7 @@ import bebum.com.br.bebum.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int teste;
-    private int teste2;
-    private TextView cassinho;
-    private int test5;
-    private int test6;
 
-    private int testeWagner;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
