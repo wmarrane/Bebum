@@ -2,7 +2,7 @@
 
     android:shape="rectangle"
     >
-<solid android:color="@color/login_texto_transparente"/>
+<solid android:color="@color/login_texto"/>
 
     <corners
         android:bottomLeftRadius="5dp"

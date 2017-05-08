@@ -18,10 +18,15 @@
     <color name="verdeopaco">#651ca758</color>
     <color name="verdeenergyopaco">#8b00788a</color>
     <color name="verdeenergy">#00788a</color>
-<color name="azulescuro">#00208a</color>
+ <color name="azulescuro">#00208a</color>
     <color name="dark">#FF222222</color>
     <color name="darkopaco">#d9222222</color>
     <color name="light">#FFEEEEEE</color>
     <color name="vermelho">#dc1e1e</color>
-    <color name="login_texto">#f8d648</color>
+
+<!--    Cores utilizadas no Login-->
+    <color name="login_texto_transparente">#91f8d648</color>
+    <color name="login_texto">#ffdd00</color>
+    <color name="login_cinza">#63cfcece</color>
+    <color name="login_vermelho">#3d3e3d</color>
 </resources>
