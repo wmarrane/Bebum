@@ -25,7 +25,7 @@
     <color name="vermelho">#dc1e1e</color>
 
 <!--    Cores utilizadas no Login-->
-    <color name="login_texto_transparente">#91f8d648</color>
+    <color name="login_texto_transparente">#43f8d648</color>
     <color name="login_texto">#ffdd00</color>
     <color name="login_cinza">#63cfcece</color>
     <color name="login_vermelho">#3d3e3d</color>
