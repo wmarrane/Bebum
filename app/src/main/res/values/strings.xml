@@ -9,7 +9,7 @@
     <!-- Strings related to login -->
     <string name="prompt_email">Usuario</string>
     <string name="prompt_password">Senha </string>
-    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in">Entrar Teste</string>
     <string name="action_sign_in_short">Login</string>
     <string name="error_invalid_email">Usuario invalido</string>
     <string name="error_invalid_password">Tamanho da senha invalido</string>
